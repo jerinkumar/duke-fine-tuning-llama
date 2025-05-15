@@ -4,6 +4,11 @@
 
 This project uses a novel technique I've coined, DUKE (Document Understanding and Knowledge Extraction), along with LoRA (Low-Rank Adaptation), specifically, Rank-Stabilized LoRA (rsLoRA), a supervised fine-tuning technique and a method within PEFT (Parameter-Efficient Fine-Tuning), to fine-tune Meta Llama 3.2 3B Instruct, a lightweight 3 billion parameter instruction-tuned generative model. We will fine-tune the Llama model on an entirely new domain, similar to the trade show example.
 
+### Hugging Face Resources
+
+- LoRA adapter: [garystafford/Llama-3.2-3B-Instruct-lora-nvidia-blackwell](https://huggingface.co/garystafford/Llama-3.2-3B-Instruct-lora-nvidia-blackwell)
+- Fine-tuning dataset: [garystafford/fine-tune-nvidia-blackwell](https://huggingface.co/datasets/garystafford/fine-tune-nvidia-blackwell)
+
 ### Web Scraper
 
 Create a virtual Python environment on Mac/Linux.
