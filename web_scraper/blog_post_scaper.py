@@ -137,23 +137,6 @@ def sanitize_filename(name):
 # --- Main script execution ---
 if __name__ == "__main__":
     blog_post_urls_input = [
-        "https://resources.nvidia.com/en-us-blackwell-architecture?ncid=pa-srch-goog-775790-GenAI-Brand-Broad"
-        # "https://developer.nvidia.com/blog/nvidia-blackwell-delivers-massive-performance-leaps-in-mlperf-inference-v5-0/",
-        # "https://developer.nvidia.com/blog/llm-performance-benchmarking-measuring-nvidia-nim-performance-with-genai-perf/",
-        # "https://developer.nvidia.com/blog/optimizing-transformer-based-diffusion-models-for-video-generation-with-nvidia-tensorrt/",
-        # "https://developer.nvidia.com/blog/llm-benchmarking-fundamental-concepts/",
-        # "https://developer.nvidia.com/blog/boost-llama-model-performance-on-microsoft-azure-ai-foundry-with-nvidia-tensorrt-llm/",
-        # "https://developer.nvidia.com/blog/introducing-nvidia-dynamo-a-low-latency-distributed-inference-framework-for-scaling-reasoning-ai-models/",
-        # "https://developer.nvidia.com/blog/nvidia-blackwell-delivers-world-record-deepseek-r1-inference-performance/",
-        # "https://developer.nvidia.com/blog/optimizing-qwen2-5-coder-throughput-with-nvidia-tensorrt-llm-lookahead-decoding/",
-        # "https://developer.nvidia.com/blog/applying-specialized-llms-with-reasoning-capabilities-to-accelerate-battery-research/",
-        # "https://developer.nvidia.com/blog/extending-the-nvidia-agent-intelligence-toolkit-to-support-new-agentic-frameworks/",
-        # "https://developer.nvidia.com/blog/revolutionizing-neural-reconstruction-and-rendering-in-gsplat-with-3dgut/",
-        # "https://developer.nvidia.com/blog/concept%e2%80%91driven-ai-teaching-assistant-guides-students-to-deeper-insights/",
-        # "https://developer.nvidia.com/blog/building-nemotron-cc-a-high-quality-trillion-token-dataset-for-llm-pretraining-from-common-crawl-using-nvidia-nemo-curator/",
-        # "https://developer.nvidia.com/blog/llm-performance-benchmarking-measuring-nvidia-nim-performance-with-genai-perf/",
-        # "https://developer.nvidia.com/blog/integrate-and-deploy-tongyi-qwen3-models-into-production-applications-with-nvidia/",
-        # "https://nvda.ws/3ETayyp",
         # Add any other URLs you are testing
     ]
 
