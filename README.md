@@ -42,13 +42,13 @@ Tested with a NVIDIA-based GPU with a minimum of 12-16 GB of VRAM.
 Tested with the following Python package versions:
 
 ```text
-accelerate              1.6.0
-bitsandbytes            0.45.5
-peft                    0.15.2
-torch                   2.7.0+cu128
-torchaudio              2.7.0+cu128
-torchvision             0.22.0+cu128
-transformers            4.51.3
-trl                     0.17.0
-xformers                0.0.30
+accelerate                              1.7.0
+bitsandbytes                            0.45.5
+peft                                    0.15.2
+torch                                   2.7.0+cu128
+torchaudio                              2.7.0+cu128
+torchvision                             0.22.0+cu128
+transformers                            4.51.3
+trl                                     0.17.0
+xformers                                0.0.30
 ```
