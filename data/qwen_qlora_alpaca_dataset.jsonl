@@ -1,0 +1,300 @@
+{"instruction": "What is MCP?", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP?", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers?", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work?", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP?", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source?", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose?", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client?", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP?", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client?", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 1)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 1)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 1)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 1)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 1)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 1)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 1)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 1)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 1)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 1)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 2)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 2)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 2)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 2)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 2)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 2)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 2)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 2)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 2)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 2)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 3)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 3)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 3)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 3)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 3)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 3)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 3)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 3)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 3)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 3)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 4)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 4)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 4)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 4)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 4)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 4)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 4)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 4)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 4)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 4)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 5)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 5)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 5)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 5)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 5)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 5)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 5)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 5)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 5)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 5)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 6)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 6)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 6)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 6)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 6)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 6)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 6)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 6)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 6)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 6)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 7)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 7)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 7)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 7)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 7)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 7)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 7)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 7)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 7)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 7)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 8)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 8)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 8)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 8)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 8)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 8)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 8)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 8)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 8)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 8)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 9)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 9)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 9)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 9)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 9)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 9)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 9)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 9)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 9)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 9)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 10)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 10)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 10)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 10)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 10)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 10)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 10)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 10)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 10)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 10)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 11)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 11)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 11)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 11)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 11)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 11)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 11)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 11)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 11)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 11)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 12)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 12)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 12)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 12)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 12)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 12)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 12)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 12)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 12)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 12)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 13)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 13)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 13)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 13)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 13)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 13)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 13)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 13)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 13)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 13)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 14)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 14)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 14)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 14)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 14)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 14)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 14)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 14)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 14)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 14)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 15)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 15)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 15)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 15)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 15)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 15)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 15)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 15)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 15)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 15)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 16)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 16)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 16)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 16)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 16)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 16)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 16)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 16)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 16)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 16)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 17)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 17)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 17)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 17)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 17)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 17)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 17)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 17)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 17)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 17)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 18)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 18)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 18)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 18)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 18)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 18)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 18)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 18)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 18)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 18)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 19)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 19)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 19)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 19)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 19)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 19)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 19)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 19)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 19)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 19)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 20)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 20)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 20)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 20)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 20)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 20)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 20)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 20)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 20)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 20)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 21)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 21)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 21)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 21)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 21)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 21)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 21)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 21)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 21)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 21)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 22)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 22)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 22)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 22)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 22)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 22)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 22)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 22)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 22)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 22)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 23)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 23)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 23)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 23)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 23)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 23)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 23)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 23)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 23)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 23)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 24)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 24)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 24)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 24)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 24)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 24)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 24)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 24)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 24)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 24)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 25)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 25)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 25)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 25)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 25)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 25)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 25)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 25)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 25)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 25)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 26)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 26)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 26)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 26)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 26)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 26)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 26)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 26)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 26)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 26)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 27)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 27)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 27)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 27)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 27)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 27)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 27)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 27)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 27)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 27)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 28)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 28)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 28)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 28)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 28)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 28)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 28)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 28)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 28)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 28)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
+{"instruction": "What is MCP? (example 29)", "input": "", "output": "MCP stands for Model Context Protocol, a standard for connecting AI applications to data sources and tools."}
+{"instruction": "What are the core components of MCP? (example 29)", "input": "", "output": "MCP consists of hosts, clients, and servers that communicate using a standard protocol."}
+{"instruction": "Why is MCP important for developers? (example 29)", "input": "", "output": "MCP simplifies integration with various tools and data sources, reducing development complexity."}
+{"instruction": "How does an MCP server work? (example 29)", "input": "", "output": "An MCP server connects to a data source and exposes tools and resources via a standard interface."}
+{"instruction": "What clients support MCP? (example 29)", "input": "", "output": "Clients like Claude Desktop, Continue, AgentAI, and many others support MCP integration."}
+{"instruction": "Can MCP servers be open source? (example 29)", "input": "", "output": "Yes, many MCP servers are open source and reusable by any MCP-compatible client."}
+{"instruction": "What tools does the weather MCP server expose? (example 29)", "input": "", "output": "The weather MCP server exposes get-alerts and get-forecast tools."}
+{"instruction": "How do I set up a Python MCP client? (example 29)", "input": "", "output": "You create a virtual environment, install required packages, and implement connection and query logic."}
+{"instruction": "How does Claude use MCP? (example 29)", "input": "", "output": "Claude connects to MCP servers to access tools and resources, enhancing its contextual understanding."}
+{"instruction": "How are tool calls handled in an MCP client? (example 29)", "input": "", "output": "Tool calls are initiated by the client and executed through the connected server."}
